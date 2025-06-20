@@ -1,1 +1,56 @@
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<p align="center">
+<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" /></a>&nbsp;
+<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" /></a>&nbsp;
+<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="20" width="20" /></a>
+<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+</p>
+
+---
+
+### 🤵 About Me
+
+- 🏦 Actualmente desarrollo aplicaciones financieras usando **Spring Boot** y **MySQL**
+- 🤔 Uso diariamente: `.java`, `.sql`
+- 🌱 Aprendiendo sobre contenedores y despliegue en la nube
+- 💬 Me gusta hablar de tecnología y arquitectura de software
+- 📝 Escribo artículos en [Hashnode](https://apoorvtyagi.tech/)
+
+---
+
+### ⚒️ Tecnologías
+
+<p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="35" height="35"/>
+<img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-blue?logo=jsonwebtokens" alt="JWT" height="35"/>
+</p>
+
+---
+
+### 🐱 GitHub Stats
+
+![TuUsuario GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📕 Últimos artículos
+
+<!-- BLOG-POST-LIST:START -->
+- [Autenticación con JWT en Spring Boot](https://apoorvtyagi.tech/jwt-con-spring)
+- [Conectar Spring con MySQL paso a paso](https://apoorvtyagi.tech/mysql-con-spring)
+- [Errores comunes usando JPA](https://apoorvtyagi.tech/errores-jpa)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 😜 Joke for Devs
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+---
+
+**Last updated:** 2025
