@@ -1,8 +1,6 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" /></a>&nbsp;
 <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="20" width="20" /></a>
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
@@ -15,11 +13,9 @@
 - 🤔 Uso diariamente: `.java`, `.sql`
 - 🌱 Aprendiendo sobre contenedores y despliegue en la nube
 - 💬 Me gusta hablar de tecnología y arquitectura de software
-- 📝 Escribo artículos en [Hashnode](https://apoorvtyagi.tech/)
 
 ---
 
-### ⚒️ Tecnologías
 
 ### ⚒️ Tecnologías
 
