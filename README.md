@@ -24,7 +24,9 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" style="margin-right:15px;"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" style="margin-right:15px;"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="Spring" width="55" height="55" style="margin-right:15px;"/>
-  <img src=" Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JWT" width="55" height="55"/>alt="JWT" width="55" height="55"/>
+</p>
+
 
 <p align="center">
 <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="20" width="20" /></a>
