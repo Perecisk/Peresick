@@ -48,10 +48,4 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ---
-
-**Last updated:** 2025 alt="JWT" width="55" height="55"/>
-</p>
-
----
-
 **Last updated:** 2025
