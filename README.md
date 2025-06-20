@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+ Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <p align="center">
 <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" height="20" width="20" /></a>
@@ -21,12 +21,11 @@
 ### ⚒️ Tecnologías
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" style="margin-right:15px;"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" style="margin-right:15px;"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="55" height="55" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/auth0/jwt-logo/master/jwt-logo-1.svg" alt="JWT" width="55" height="55" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55" style="margin-right:15px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55" style="margin-right:15px;"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="Spring" width="55" height="55" style="margin-right:15px;"/>
+  <img src="https://raw.githubusercontent.com/auth0/jwt-logo/master/jwt-logo-1.svg" alt="JWT" width="55" height="55"/>
 </p>
-
 
 ---
 
