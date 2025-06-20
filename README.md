@@ -21,12 +21,15 @@
 
 ### ⚒️ Tecnologías
 
+### ⚒️ Tecnologías
+
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="35" height="35"/>
-<img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-blue?logo=jsonwebtokens" alt="JWT" height="35"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="55" height="55"/>
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-blue?logo=jsonwebtokens" alt="JWT" height="55"/>
 </p>
+
 
 ---
 
